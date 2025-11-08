@@ -1,0 +1,11 @@
+ydr.sna,5,4000
+!BMP8,3guys.bmp,0,0,0,0,0
+game_0.nxi,15,C000
+game_1.nxi,16,C000
+game_2.nxi,17,C000
+sprites_0.spr,18,C000
+sprites_1.spr,19,C000
+sprites_2.spr,20,C000
+
+
+
